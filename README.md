@@ -1,5 +1,5 @@
 <p align="justify">
-👋 Hello, I am currently a Year 3 student at the National University of Singapore, majoring in Data Science and Analytics. A driven go-getter, I stay committed to my ardent pursuit for continuous improvement, doing my utmost to advance beyond preset goals and objectives. I am a consistent and reliable team-player who actively learns from his peers, whilst being capable of ensuring purposeful team coordination. At present, I am not only seeking opportunities to hone skills in Data Science, but am also eager to engage in fresh and meaningful experiences.
+👋 Hello, I am currently a Year 3 student at the National University of Singapore, studying Data Science and Analytics with a minor in Computer Science. A driven go-getter, I stay committed to my ardent pursuit for continuous improvement, doing my utmost to advance beyond preset goals and objectives. I am a consistent and reliable team-player who actively learns from his peers, whilst being capable of ensuring purposeful team coordination. At present, I am not only seeking opportunities to hone skills in Data Science, but am also eager to engage in fresh and meaningful experiences.
 </p>
 
 <!---
