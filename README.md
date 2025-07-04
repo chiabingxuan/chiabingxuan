@@ -2,7 +2,7 @@
 
 ## About Me
 <p align="justify">
-I am currently a Year 3 Data Science and Analytics student at the National University of Singapore, with a minor in Computer Science. A driven go-getter, I stay committed to my ardent pursuit for continuous improvement, doing my utmost to advance beyond preset goals and objectives. I am a consistent and reliable team-player who actively learns from his peers, whilst being capable of ensuring purposeful team coordination. At present, I am not only seeking opportunities to hone skills in Data Science, but am also eager to engage in fresh and meaningful experiences.
+I am currently a Final Year Data Science and Analytics student at the National University of Singapore, with a minor in Computer Science. A driven go-getter, I stay committed to my ardent pursuit for continuous improvement, doing my utmost to advance beyond preset goals and objectives. I am a consistent and reliable team-player who actively learns from his peers, whilst being capable of ensuring purposeful team coordination. At present, I am not only seeking opportunities to hone skills in Data Science, but am also eager to engage in fresh and meaningful experiences.
 </p>
 
 ## Technical Skills
